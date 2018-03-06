@@ -1,0 +1,16 @@
+ul, ol, li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.gallery{ width:100%; float:left; margin-top:30px;}
+.gallery2{ width:100%; float:left; margin-top:30px;}
+.gallery ul{ margin:0; padding:0; list-style-type:none;}
+.gallery2 ul{ margin:0; padding:0; list-style-type:none;}
+.gallery ul li{ padding:7px; border:2px solid #ccc; margin:10px 7px; background:none; width:auto; height:auto;}
+.gallery2 ul li{ padding:7px; border:2px solid #ccc; margin:10px 7px; background:none; width:auto; height:auto;}
+.gallery img{ width:40%;}
+.gallery2 img{ width:45%;}
+.none{ display:none;}
+.upload_div{ margin-bottom:50px;}
+.uploading{ margin-top:15px;}

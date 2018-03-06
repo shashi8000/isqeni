@@ -1,0 +1,39 @@
+.table-bordered {
+  direction: rtl;
+}
+.table-bordered th , .table-bordered td,.box-header {
+  text-align: right;
+}
+.box-icon {
+  float: left !important;
+}
+.main-menu-span {
+  float: right !important;
+  margin-right: 0;
+  direction: rtl;
+}
+#content {
+   float: right !important;
+    margin-right: 2.5641% !important;
+    margin-left:0 !important;
+    direction: rtl;
+}
+.row-fluid [class*="span"] {
+   float: right !important;
+}
+
+.form-horizontal .control-label {
+   float: right !important;
+}
+.cleditorMain {
+  margin-right: 140px;
+}
+.navbar .nav {
+
+}
+.top-block {
+  margin: 10px !important ;
+}
+.row-fluid .span6.typeahead {
+  float: none !important;
+}
